@@ -1,0 +1,96 @@
+const Recipes = [
+  {
+    time: "25",
+    serves: "2",
+    difficulty: "Easy",
+    ingredients: [
+      "broccoli a large head, stalk chopped and cut into florets",
+      "shallots 2 long, chopped",
+      "garlic 3 cloves, chopped",
+      "ginger a thumb-sized piece, chopped",
+      "lemongrass 1 stick, thinly sliced",
+      "toasted sesame oil 2 tsp",
+      "red chilli 1, finely sliced",
+      "red pepper 1, finely sliced",
+      "carrot 1, peeled into ribbons",
+      "mangetout a handful, halved soy sauce 2 tbsp",
+      "tamarind paste 2 tbsp",
+      "caster sugar 1 tsp",
+      "lime 1, quartered to serve",
+      "eggs 2, fried (we used Clarence Court Burford Browns)",
+      "roasted peanuts a handful, chopped",
+    ],
+    steps: [
+      "Put the chopped broccoli stalk into a food processor and pulse until it is finely chopped like grains of rice. Tip out into a bowl and then repeat with the broccoli florets.",
+      "Put the shallots, garlic, ginger and lemongrass in the food processor and pulse until finely chopped.",
+      "Heat the sesame oil in a non-stick frying pan and fry the shallot mixture until lightly golden. Tip in the broccoli rice with 2 tbsp of water, ¾ of the chilli and all of the pepper, and fry for 5 minutes until the broccoli is cooked through and beginning to caramelise. Add in the carrot and mangetout.",
+      "Mix together the soy, tamarind, sugar and the juice of two of the lime quarters, then tip this into the pan with a little seasoning. Cook for 5 minutes until the sauce is coating everything. Divide between two plates and top with the fried eggs, chopped peanuts, remaining chilli and the extra lime wedges for squeezing over.",
+    ],
+    _id: "605eca5bc6431f6264e25fa2",
+    imag:
+      "https://images.immediate.co.uk/production/volatile/sites/2/2020/08/OLI-0720_Healthy-ThaiBrocolliFriedRice_04523_preview-b19843c.jpg?webp=true&quality=90&resize=940%2C399",
+    title: "Thai-style broccoli fried rice",
+    subtitle:
+      "Packed with protein and low in calories, this speedy broccoli rice dish is full of exciting texture and flavour, with punchy chilli, zingy lime, crunchy veg and peanuts",
+  },
+  {
+    time: "30",
+    serves: "2",
+    difficulty: "Easy",
+    ingredients: [
+      "oil for frying",
+      "onion 1, halved and sliced",
+      "red pepper 1, sliced",
+      "ground cumin ½ tsp",
+      "hot-smoked paprika ¼ tsp",
+      "mild chilli powder ½ tsp",
+      "black beans 400g tin, rinsed and drained",
+      "flour tortillas 4, warmed",
+      "mature cheddar 50g, grated",
+      "soured cream 4 tbsp",
+      "hot sauce to serve",
+    ],
+    steps: [
+      "Toss all the salsa ingredients together with a good pinch of salt and leave to sit while you make the fajitas.",
+      "Heat 1 tbsp of oil in a large pan and cook the onion and pepper over a high heat until softened and starting to char at the edges. Turn down the heat and add the spices, tossing well. Add the beans with a splash of water and keep cooking until the beans are piping hot.",
+      "Serve the beans in warm tortillas with the salsa, cheese, soured cream and hot sauce, if you like.",
+    ],
+    _id: "605eca5bc6431f6264e25fa3",
+    imag:
+      "https://images.immediate.co.uk/production/volatile/sites/2/2020/06/Steven-Joyce-JOS2020026D00001-FS_preview-7ab8c0e.jpg?webp=true&quality=90&resize=940%2C399",
+    title: "Veggie fajitas",
+    subtitle:
+      "Make it a fajita night with this speedy veggie dinner, perfect for the whole family to enjoy. Use a little mild chilli powder to give these wraps a kick, and hot-smoked paprika for colour",
+  },
+  {
+    time: "30",
+    serves: "2",
+    difficulty: "Easy",
+    ingredients: [
+      "groundnut oil 1 tbsp",
+      "onion 1 large, finely chopped",
+      "garlic 2 cloves, crushed",
+      "green chilli 1, sliced",
+      "green pepper 1, diced",
+      "basmati rice 200g",
+      "chipotle paste 1 tbsp",
+      "chopped tomatoes 400g tin",
+      "vegetable stock 250ml",
+      "coriander a handful, chopped",
+      "lime wedges to serve",
+    ],
+    steps: [
+      "Heat the oil in a deep lidded frying pan. Cook the onion, garlic, chilli and pepper for 10 minutes until starting to soften. Stir in the basmati, then cook for 3-4 minutes, stirring all the time.",
+      "Mix in the chipotle paste and cook, stirring for a couple of minutes until fragrant, then tip in the tomatoes and stock, and stir well.",
+      "Bring to a simmer then turn the heat down to low, put on a lid and cook for 15 minutes or until the rice is tender and cooked through. Stir through the coriander and serve with lime wedges for squeezing.",
+    ],
+    _id: "605ee3031272ba34e80738e8",
+    imag:
+      "https://images.immediate.co.uk/production/volatile/sites/2/2020/06/Steven-Joyce-JOS2020026D00012-FS_preview-7786183.jpg?webp=true&quality=90&resize=940%2C399",
+    title: "Spicy Mexican rice",
+    subtitle:
+      "This vegan rice dish can be eaten on its own or, if you want to add some protein, it’s good with beans, crumbled feta, cooked chicken or prawns stirred through",
+    __v: 0,
+  },
+];
+export default Recipes;
